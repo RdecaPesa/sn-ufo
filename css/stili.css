@@ -3,9 +3,10 @@
 	
 */
 
-* {
+body {
 	font-family: 'Exo', sans-serif; 
 	background-color: blue;
+	overflow: hidden;
 }
 
 a {
@@ -101,6 +102,7 @@ textarea {
 	padding: 0 0 10px 10px;
 	display: block;
 	float: left;
+
 }
 
 li {
@@ -134,6 +136,7 @@ input {
 	background-color: transparent;
 	width: 100%;
 	height: auto;
+
 }
 
 .animated { 
